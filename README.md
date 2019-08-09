@@ -7,7 +7,5 @@ inspired by [sabe.io]
 
 
 
-
-
 <!--Link-->
 [sabe.io]: https://sabe.io/classes/javascript
